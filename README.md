@@ -1,3 +1,5 @@
+<link rel="icon" href="data:,">
+
 # Учебные материалы Web-development
 
 ## Курсы которые нужно пройти:
