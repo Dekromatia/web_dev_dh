@@ -15,7 +15,6 @@
 
 
 ### Часовой спидран курса выше [Speedrun-Sergey](https://www.youtube.com/playlist?list=PLvAUW5paNOydAriaCNWjrdEgUeqQQ6DaM)
-
     *stack: Flask, Jinja2, MongoDB, Docker, Vagrant*
 
 
