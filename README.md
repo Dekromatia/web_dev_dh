@@ -7,28 +7,30 @@
 
 ## Материалы для самостоятельного изучения:
 
-### Плейлист с подробным описанием каждого этапа веб-разработки [Web-development-Sergey](https://www.youtube.com/playlist?list=PLvAUW5paNOydAriaCNWjrdEgUeqQQ6DaM)  
-*stack: Flask, Jinja2, MongoDB, Docker, Vagrant*  
-чтоб не тратить время советую предварительно посмотреть Speedrun
+### Плейлист с подробным описанием каждого этапа веб-разработки [Web-development-Sergey](https://www.youtube.com/playlist?list=PLvAUW5paNOydAriaCNWjrdEgUeqQQ6DaM)
+
+    *stack: Flask, Jinja2, MongoDB, Docker, Vagrant*
+
+    чтоб не тратить время советую предварительно посмотреть Speedrun
 
 
 ### Часовой спидран курса выше [Speedrun-Sergey](https://www.youtube.com/playlist?list=PLvAUW5paNOydAriaCNWjrdEgUeqQQ6DaM)
 
-*stack: Flask, Jinja2, MongoDB, Docker, Vagrant*
+    *stack: Flask, Jinja2, MongoDB, Docker, Vagrant*
 
 
 ### 3-х часовой туториал по разработке сайта магазина  [Full_project](https://www.youtube.com/watch?v=H2GCkRF9eko&t=2s)
 
-*stack: postgreSQL, React, Node.js*
+    *stack: postgreSQL, React, Node.js*
 
-возможно вы сможете взять отсюда какие-то решения для своих проектов
+    возможно вы сможете взять отсюда какие-то решения для своих проектов
 
 
 ### Туториал по React [React](https://www.youtube.com/watch?v=GNrdg3PzpJQ&list=PL6DxKON1uLOFJ5_dDcX7G1osKnsBlCaaT&index=13)
 
-Более серьезный материал нежели в необходимом курсе, подойдет тем кто решит использовать в проекте или дипломе React.
+    Более серьезный материал нежели в необходимом курсе, подойдет тем кто решит использовать в проекте или дипломе React.
 
-У этого блогера вообще много полезных видео, как с готовыми решениями, так и с теолретической базой.
+    У этого блогера вообще много полезных видео, как с готовыми решениями, так и с теолретической базой.
 
 
 ## Шпаргалки и другие полезные материалы:
@@ -58,4 +60,4 @@
 
 - [beonmax](https://beonmax.com/) - хороший ресурс с курсами по веб разработке увы платный, но не дорогой
 
-P.S. Если кто-то заинтересуется и решит там заниматься то необходимые курсы по HTML, CSS, Flask и js - можно пройти там, они тоже будут приниматься.
+    P.S. Если кто-то заинтересуется и решит там заниматься то необходимые курсы по HTML, CSS, Flask и js - можно пройти там, они тоже будут приниматься.
