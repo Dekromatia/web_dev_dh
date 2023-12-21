@@ -6,41 +6,68 @@
 3. [JavaScript](https://stepik.org/course/2223/promo)
 
 ## Материалы для самостоятельного изучения:
+
 Плейлист с подробным описанием каждого этапа веб-разработки (чтоб не тратить время советую предварительно посмотреть Speedrun)
+
+*Flask Jinja2 MongoDB Docker Vagrant*
+
 [Web-development-Sergey](https://www.youtube.com/playlist?list=PLvAUW5paNOydAriaCNWjrdEgUeqQQ6DaM)
+
 Часовой спидран 
+
 *Flask Jinja2 MongoDB Docker*
+
 [Speedrun-Sergey](https://www.youtube.com/playlist?list=PLvAUW5paNOydAriaCNWjrdEgUeqQQ6DaM)
 
+3-х часовой туториал по разработке сайта магазина 
+
+возможно вы сможете взять отсюда какие-то решения для своих проектов
+
+*postgreSQL React Node.js*
+
+[Full_project](https://www.youtube.com/watch?v=H2GCkRF9eko&t=2s)
+
+Туториал по React
+
+более серьезный материал нежели в необходимом курсе, подойдет тем кто решит использовать в проекте или дипломе React.
+
+[React](https://www.youtube.com/watch?v=GNrdg3PzpJQ&list=PL6DxKON1uLOFJ5_dDcX7G1osKnsBlCaaT&index=13)
+
+уэтого блогера вообще много полезных видео, как с готовыми решениями, так и с теолретической базой
+
+Простенький туториал Full-Stack
+
+*Flask React postgreSQL*
+
+[Full_Stack](https://www.youtube.com/watch?v=RcQwcyyCOmM&list=PL1FIFZraE9UGg6RHkg23ucK6hGSXaEzhV)
 
 
-## Полезные материалы:
+## Шпаргалки и другие полезные материалы:
+
+- [cmd](https://help.ubuntu.ru/wiki/%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%B0#%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%8B)
+
+- [flask_dock](https://flask.palletsprojects.com/en/3.0.x/)
+
+- [bootstrap](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
+
+- [Web_technology_references](https://developer.mozilla.org/en-US/docs/Web)
+
+- [HTML&CSSreferences](https://webref.ru/css)
+
+- [CSSvsEXAMPLES](https://cssreference.io/)
+
+- [FONTS](https://www.quickandlazy.appspot.com/)
+
+- [JSguide](https://learn.javascript.ru/)
+
+- [different_guides](https://www.schoolsw3.com/index.php)
+
+- [Шпаргалка адаптивности](https://tpverstak.ru/adaptive-cheatsheet/)
+
+- [Шпаргалка классов HTML/CSS](https://tpverstak.ru/common-css-class-names/)
 
 **хороший ресурс с курсами по веб разработке увы платный, но не дорогой**
+
 [beonmax](https://beonmax.com/)
-P.S. Если кто-то заинтересуется и решит его оплатить необходимые курсы по HTML, CSS, Flask и js - можно пройти там, они тоже будут приниматься.
 
-### Заголовок 3
-
-
-
-
-
-
-*Курсив*
-
-**Полужирный**
-
-Список:
-- Пункт 1
-- Пункт 2
-- Пункт 3
-
-Нумерованный список:
-1. Пункт 1
-2. Пункт 2
-3. Пункт 3
-
-[Web-development-Sergey](https://www.youtube.com/playlist?list=PLvAUW5paNOydAriaCNWjrdEgUeqQQ6DaM)
-
-![Изображение](image.jpg)
+P.S. Если кто-то заинтересуется и решит там заниматься то необходимые курсы по HTML, CSS, Flask и js - можно пройти там, они тоже будут приниматься.
