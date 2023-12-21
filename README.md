@@ -7,39 +7,30 @@
 
 ## Материалы для самостоятельного изучения:
 
-Плейлист с подробным описанием каждого этапа веб-разработки (чтоб не тратить время советую предварительно посмотреть Speedrun)
+# Плейлист с подробным описанием каждого этапа веб-разработки [Web-development-Sergey](https://www.youtube.com/playlist?list=PLvAUW5paNOydAriaCNWjrdEgUeqQQ6DaM)
 
-*Flask Jinja2 MongoDB Docker Vagrant*
+*stack: Flask, Jinja2, MongoDB, Docker, Vagrant*
 
-[Web-development-Sergey](https://www.youtube.com/playlist?list=PLvAUW5paNOydAriaCNWjrdEgUeqQQ6DaM)
+чтоб не тратить время советую предварительно посмотреть Speedrun
 
-Часовой спидран 
 
-*Flask Jinja2 MongoDB Docker*
+# Часовой спидран курса выше [Speedrun-Sergey](https://www.youtube.com/playlist?list=PLvAUW5paNOydAriaCNWjrdEgUeqQQ6DaM)
 
-[Speedrun-Sergey](https://www.youtube.com/playlist?list=PLvAUW5paNOydAriaCNWjrdEgUeqQQ6DaM)
+*stack: Flask, Jinja2, MongoDB, Docker, Vagrant*
 
-3-х часовой туториал по разработке сайта магазина 
+
+# 3-х часовой туториал по разработке сайта магазина  [Full_project](https://www.youtube.com/watch?v=H2GCkRF9eko&t=2s)
+
+*stack: postgreSQL, React, Node.js*
 
 возможно вы сможете взять отсюда какие-то решения для своих проектов
 
-*postgreSQL React Node.js*
 
-[Full_project](https://www.youtube.com/watch?v=H2GCkRF9eko&t=2s)
+# Туториал по React [React](https://www.youtube.com/watch?v=GNrdg3PzpJQ&list=PL6DxKON1uLOFJ5_dDcX7G1osKnsBlCaaT&index=13)
 
-Туториал по React
+Более серьезный материал нежели в необходимом курсе, подойдет тем кто решит использовать в проекте или дипломе React.
 
-более серьезный материал нежели в необходимом курсе, подойдет тем кто решит использовать в проекте или дипломе React.
-
-[React](https://www.youtube.com/watch?v=GNrdg3PzpJQ&list=PL6DxKON1uLOFJ5_dDcX7G1osKnsBlCaaT&index=13)
-
-уэтого блогера вообще много полезных видео, как с готовыми решениями, так и с теолретической базой
-
-Простенький туториал Full-Stack
-
-*Flask React postgreSQL*
-
-[Full_Stack](https://www.youtube.com/watch?v=RcQwcyyCOmM&list=PL1FIFZraE9UGg6RHkg23ucK6hGSXaEzhV)
+У этого блогера вообще много полезных видео, как с готовыми решениями, так и с теолретической базой.
 
 
 ## Шпаргалки и другие полезные материалы:
@@ -66,8 +57,7 @@
 
 - [Шпаргалка классов HTML/CSS](https://tpverstak.ru/common-css-class-names/)
 
-**хороший ресурс с курсами по веб разработке увы платный, но не дорогой**
 
-[beonmax](https://beonmax.com/)
+** [beonmax](https://beonmax.com/) хороший ресурс с курсами по веб разработке увы платный, но не дорогой**
 
 P.S. Если кто-то заинтересуется и решит там заниматься то необходимые курсы по HTML, CSS, Flask и js - можно пройти там, они тоже будут приниматься.
