@@ -7,10 +7,8 @@
 
 ## Материалы для самостоятельного изучения:
 
-### Плейлист с подробным описанием каждого этапа веб-разработки [Web-development-Sergey](https://www.youtube.com/playlist?list=PLvAUW5paNOydAriaCNWjrdEgUeqQQ6DaM)
-
-*stack: Flask, Jinja2, MongoDB, Docker, Vagrant*
-
+### Плейлист с подробным описанием каждого этапа веб-разработки [Web-development-Sergey](https://www.youtube.com/playlist?list=PLvAUW5paNOydAriaCNWjrdEgUeqQQ6DaM)  
+*stack: Flask, Jinja2, MongoDB, Docker, Vagrant*  
 чтоб не тратить время советую предварительно посмотреть Speedrun
 
 
